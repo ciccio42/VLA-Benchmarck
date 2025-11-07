@@ -3,3 +3,4 @@ robosuite_test/experiments
 *jpg
 *pyc
 robosuite_test/robosuite
+*__pycache__/*
