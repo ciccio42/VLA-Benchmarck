@@ -1,0 +1,28 @@
+task_suite_name: &tsn ur5e_pick_place_delta_removed_0_5_10_15
+model_family: "tinyvla"
+num_steps_wait: 10
+num_trials_per_task: 10
+initial_states_path: "DEFAULT"
+env_img_res: 256
+save: true
+local_log_dir: "./experiments/logs"
+use_wandb: false
+wandb_entity: "your-wandb-entity"
+wandb_project: "your-wandb-project"
+seed: 0
+controller_path: "/home/rsofnc000/Multi-Task-LFD-Framework/repo/openvla-oft/experiments/robot/robosuite/tasks/multi_task_robosuite_env/controllers/config/osc_pose.json"
+debug: false
+run_number: 0
+change_spawn_regions: false
+change_command: false
+object_set: -1
+run_id_note: *tsn
+
+model_config:
+  type: tinyvla
+  model_path: '/home/rsofnc000/checkpoint_save_folder/tiny_vla/post_processed_tiny_vla_llava_pythia_lora_ur5e_pick_place_delta_removed_0_5_10_15_lora_r_128_processed/checkpoint-40000'
+  model_base: "/home/rsofnc000/checkpoint_save_folder/tiny_vla/llava_pythia_ur5e_pick_place_delta_removed_0_5_10_15_128/1.3B"
+  enable_lora: true
+  conv_mode: 'pythia'
+  action_head: 'droid_diffusion' 
+  task_suite_name: *tsn

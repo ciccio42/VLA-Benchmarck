@@ -1,0 +1,87 @@
+{
+    "pick_place": {
+        "0": "Pick the green box and place it into the first bin",
+        "1": "Pick the green box and place it into the second bin",
+        "2": "Pick the green box and place it into the third bin",
+        "3": "Pick the green box and place it into the fourth bin",
+        "4": "Pick the yellow box and place it into the first bin",
+        "5": "Pick the yellow box and place it into the second bin",
+        "6": "Pick the yellow box and place it into the third bin",
+        "7": "Pick the yellow box and place it into the fourth bin",
+        "8": "Pick the blue box and place it into the first bin",
+        "9": "Pick the blue box and place it into the second bin",
+        "10": "Pick the blue box and place it into the third bin",
+        "11": "Pick the blue box and place it into the fourth bin",
+        "12": "Pick the red box and place it into the first bin",
+        "13": "Pick the red box and place it into the second bin",
+        "14": "Pick the red box and place it into the third bin",
+        "15": "Pick the red box and place it into the fourth bin"
+    },
+    "pick_place_set_1": {
+        "0": "Pick the milk and place it into the first bin",
+        "1": "Pick the milk and place it into the second bin",
+        "2": "Pick the milk and place it into the third bin",
+        "3": "Pick the milk and place it into the fourth bin",
+        "4": "Pick the bread and place it into the first bin",
+        "5": "Pick the bread and place it into the second bin",
+        "6": "Pick the bread and place it into the third bin",
+        "7": "Pick the bread and place it into the fourth bin",
+        "8": "Pick the  cereal and place it into the first bin",
+        "9": "Pick the  cereal and place it into the second bin",
+        "10": "Pick the cereal and place it into the third bin",
+        "11": "Pick the cereal and place it into the fourth bin",
+        "12": "Pick the can and place it into the first bin",
+        "13": "Pick the can and place it into the second bin",
+        "14": "Pick the can and place it into the third bin",
+        "15": "Pick the can and place it into the fourth bin"
+    },
+    "nut_assembly": {
+        "0": "Assembly the grey nut with the right peg",
+        "1": "Assembly the grey nut with the center peg",
+        "2": "Assembly the grey nut with the left peg",
+        "3": "Assembly the brown nut with the right peg",
+        "4": "Assembly the brown nut with the center peg",
+        "5": "Assembly the brown nut with the left peg",
+        "6": "Assembly the blue nut with the right peg",
+        "7": "Assembly the blue nut with the center peg",
+        "8": "Assembly the blue nut with the left peg"
+    },
+    "nut_assembly_1": {
+        "0": "Pick the grey nut and insert it into the third peg",
+        "1": "Pick the grey nut and insert it into the second peg",
+        "2": "Pick the grey nut and insert it into the first peg",
+        "3": "Pick the brown nut and insert it into the third peg",
+        "4": "Pick the brown nut and insert it into the second peg",
+        "5": "Pick the brown nut and insert it into the first peg",
+        "6": "Pick the blue nut and insert it into the third peg",
+        "7": "Pick the blue nut and insert it into the second peg",
+        "8": "Pick the blue nut and insert it into the first peg"
+    },
+    "nut_assembly_2": {
+        "0": "Pick the grey nut and insert it into the right peg",
+        "1": "Pick the grey nut and insert it into the center peg",
+        "2": "Pick the grey nut and insert it into the left peg",
+        "3": "Pick the brown nut and insert it into the first peg",
+        "4": "Pick the brown nut and insert it into the center peg",
+        "5": "Pick the brown nut and insert it into the left peg",
+        "6": "Pick the blue nut and insert it into the first peg",
+        "7": "Pick the blue nut and insert it into the center peg",
+        "8": "Pick the blue nut and insert it into the left peg"
+    },
+    "block_stacking": {
+        "0": "Stack the red block on the green block",
+        "1": "Stack the red block on the blue block",
+        "2": "Stack the blue block on the green block",
+        "3": "Stack the blue block on the red block",
+        "4": "Stack the green block on the red block",
+        "5": "Stack the green block on the blue block"
+    },
+    "press_button": {
+        "0": "Press the central right button",
+        "1": "Press the upper right button",
+        "2": "Press the bottom right button",
+        "3": "Press the central left button",
+        "4": "Press the bottom left button",
+        "5": "Press the upper left button"
+    }
+}

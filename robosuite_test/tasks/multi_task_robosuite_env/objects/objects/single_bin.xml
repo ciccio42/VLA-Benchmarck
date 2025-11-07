@@ -1,0 +1,26 @@
+<mujoco model="bin">
+    <compiler angle="radian" inertiafromgeom="auto"/>
+    <asset>
+        <texture name="T_shelf_wood" type="cube" file="textures/wood1.png"/>
+        <material name="case" texture="T_shelf_wood" reflectance="0.7" texrepeat="5 5" texuniform="true"/>
+    </asset>
+    <default>
+        <default class="case">
+            <geom conaffinity="1" condim="3" contype="1" group="0" material="case" solimp="0.99 0.99 0.01"
+                  solref="0.01 1" density="8000"/>
+        </default>
+    </default>
+
+    <worldbody>
+        <body>
+            <body name="object">
+                <body name="box_1" pos="0 -0.25 0.03">
+                    <geom class="case" pos="0 -0.075 0.03" size="0.08 0.005 0.03" type="box"/>
+                    <geom class="case" pos="0 0.075 0.03" size="0.08 0.005 0.03" type="box"/>
+                    <geom class="case" pos="0.075 0 0.03" size="0.005 0.07 0.03" type="box"/>
+                    <geom class="case" pos="-0.075 0 0.03" size="0.005 0.07 0.03" type="box"/>
+                    <geom class="case" pos="0 0 0.005" size="0.08 0.08 0.005" type="box"/>
+                </body>
+        </body>
+    </worldbody>
+</mujoco>

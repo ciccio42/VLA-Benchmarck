@@ -1,0 +1,5710 @@
+Collecting 600 trajs for press_button, using 6 subtasks
+Saving path:  /user/frosa/multi_task_lfd/ur_multitask_dataset/press_button_close_after_reaching/ur5e/
+Making environment UR5e_Button for robot ur5e, using env builder <function get_expert_trajectory at 0x7fb998348820>
+Distributing work to 4 GPUs
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal3
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal1
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal1
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine1_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal2
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+UR5e_Button
+Object set 1
+Target machine2_goal3
+pybullet build time: Sep  9 2023 15:14:45
+Collecting 600 trajs for press_button, using 6 subtasks
+Saving path:  /user/frosa/multi_task_lfd/ur_multitask_dataset/press_button_close_after_reaching/panda/
+Making environment Panda_Button for robot panda, using env builder <function get_expert_trajectory at 0x7f3a0abbe820>
+Distributing work to 4 GPUs
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+2
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal3
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+3
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal1
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+0
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal1
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+1
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine1_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+4
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal2
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+5
+GPU-ID 2
+Panda_Button
+Object set 1
+Target machine2_goal3
+pybullet build time: Sep  9 2023 15:14:45

@@ -1,0 +1,63 @@
+#---- Parameters related to env configuration ----#
+
+# Mount type
+mount_types: null
+
+# Gripper type
+gripper_types: "default"
+
+# Robot offset
+# -0.03-(mounting/2)-(table_full_size/2) 
+robot_offset: [-0.612, 0, 0.860] 
+
+# Table dimension
+table_full_size: [1.0, 1.0, 0.04]
+
+# Table offset
+table_offset: [0, 0, 0.74]
+
+# Object y ranges
+y_ranges: [[-0.12, 0.12], # object to manipulate
+           [-0.08, 0.08]] # target object
+x_ranges: [[-0.20, -0.15], # object to manipulate
+          [0.10, 0.15]] # target object
+object_set: 1
+
+# Camera names
+camera_names: ['camera_front','camera_lateral_left','camera_lateral_right','robot0_eye_in_hand'] #,'camera_front', 'camera_lateral_left','camera_lateral_right', 'robot0_eye_in_hand']
+
+#---- CONF 1 ----#
+camera_poses:
+ # position (x,y,z) and quaternion (w,x,y,z)
+  { 
+    frontview:  [[0.735, 0, 1.085], [0.5336601734161377, 0.4639042615890503, 0.4639032483100891, 0.5336601734161377]],
+    camera_front: [[0.45, -0.002826249197217832, 1.27], [0.6620018964346217, 0.26169506249574287, 0.25790267731943883, 0.6532651777140575]], 
+    camera_lateral_left: [[ -0.32693157973832665, 0.4625646268626449, 1.3], [-0.3050297127346233,  -0.11930536839029657, 0.3326804927221449, 0.884334095907446]],
+    camera_lateral_right: [[-0.3582777207605626, -0.44377700364575223, 1.3], [0.860369883903888, 0.3565444300005689, -0.1251454368177692, -0.3396500627826067]],
+  }
+
+# camera gripper
+camera_gripper:
+  {
+    Robotiq85Gripper: {
+                        root: 'right_hand',
+                        pose: [[0.0, -0.080, 0.0084], [0.,         0.,         0.97629601, -0.21643961]]
+                      },
+  }
+
+# camera attributes
+camera_attribs:
+  {fovy: '60'}
+
+# Camera depth
+camera_depths: true
+
+# Camera height
+camera_heights: 200
+
+# Camera width
+camera_widths: 360
+
+# Horizon
+horizon: 1000
+ignore_done: False

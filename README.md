@@ -30,8 +30,9 @@ In `robosuite_test` folder:
 ```bash
 conda env create -f conda_environments/tinyvla_robosuite_1_0_1.yaml
 pip install -r python_requirements/tinyvla_requirements.txt
+pip install mergedeep~=1.3 pyyaml-include~=1.4 toml~=0.10 typing-inspect~=0.9.0 wrapt tensorflow>=2.2.0 protobuf>=3.20
 # Install torch 
-pip install torch==2.7.0+cu128 torchvision==0.22.0+cu128 -f https://download.pytorch.org/whl/torch_stable.html
+pip install torch==2.7.0+cu128 torchvision==0.22.0+cu128 –index-url https://download.pytorch.org/whl/cu128
 # Install utils
 pip install -e ../.
 
@@ -46,7 +47,7 @@ Install TinyVLA modules
 
 ```bash
 cd [PATH-TO-TinyVLA-Folder]
-pip install -e ../.
+pip install -e .
 cd policy_heads
 pip install -e .
 # install llava-pythia

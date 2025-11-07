@@ -1,0 +1,37 @@
+task_suite_name: &tsn ur5e_pick_place_rm_central_spawn
+model_family: "openvla"
+num_steps_wait: 10
+num_trials_per_task: 10
+initial_states_path: "DEFAULT"
+env_img_res: 256
+save: true
+local_log_dir: "./experiments/logs"
+use_wandb: false
+wandb_entity: "your-wandb-entity"
+wandb_project: "your-wandb-project"
+seed: 42
+controller_path: "/home/rsofnc000/Multi-Task-LFD-Framework/repo/openvla-oft/experiments/robot/robosuite/tasks/multi_task_robosuite_env/controllers/config/osc_pose.json"
+debug: true
+run_number: 0
+change_spawn_regions: false
+change_command: false
+object_set: -1
+run_id_note: "ur5e_pick_place_rm_central_spawn_parallel_dec--8_acts_chunk--continuous_acts--L1_regression--3rd_person_img-gripper_img-proprio"
+
+model_config:
+  type: openvla
+  pretrained_checkpoint: "/home/rsofnc000/checkpoint_save_folder/open_vla/openvla-7b+ur5e_pick_place_rm_central_spawn+b8+lr-0.0005+lora-r32+dropout-0.0--image_aug--ur5e_pick_place_rm_central_spawn_parallel_dec--8_acts_chunk--continuous_acts--L1_regression--3rd_person_img-gripper_img-proprio--45000_chkpt"
+  use_l1_regression: true
+  use_diffusion: false
+  num_diffusion_steps: 50
+  use_film: false
+  num_images_in_input: 2
+  use_proprio: true
+  center_crop: true
+  num_open_loop_steps: 8
+  unnorm_key: ''
+  load_in_8bit: false
+  load_in_4bit: false
+  proprio_dim: 8
+  chunk_size: 8
+  task_suite_name: *tsn
